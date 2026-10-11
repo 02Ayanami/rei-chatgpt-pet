@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and face opening shift left under raised chin; B nose and exposed cheek shift right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left and visible eye sits on left-facing profile; B nose projects right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A exposed face and nose profile project right; B face opening and nose project left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and chin contour sit right of hair mass; B nose and chin contour sit left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered face has left-projecting nose; B lowered face has right-projecting nose and right exposed cheek."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A bowed head exposes eye, nose and chin on right; B exposes eye, nose and chin on left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A bowed face opening and nose point left; B face opening and nose point right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A crown is prominent, eyes low under bangs and chin tucked; B chin raised, broad face exposed and neck extended."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A crown dominates with low eyes and tucked chin; B eyes and nose rise above raised chin with extended neck."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose and eye line are low beneath heavy bangs with tucked chin; B nose lifts and chin extends away from collar."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes sit low under bangs and chin inclines toward collar; B face is more exposed with higher nose and raised chin."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A has raised chin, elevated nose and exposed neck; B crown dominates, eyes are obscured and chin is tucked."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A eye and nose angle upward with lifted chin and visible neck; B nose points down beneath bangs with chin near collar."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A face and nose angle slightly upward with chin lifted; B eyes lie lower beneath bangs and nose/chin slope downward."
+    }
+  ]
+}

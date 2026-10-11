@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and face center lean slightly left, with more hair on the right cheek; B nose projects right and face is visible on right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left and visible cheek is left of the hair mass; B nose and exposed face project right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A profile nose and mouth project right; B profile nose and mouth project left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose tip and chin project right; B nose tip and chin project left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered nose and chin point left, with hair mass to right; B exposed eye, nose and chin lie to right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and chin emerge toward right beneath bangs; B nose and chin emerge toward left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A face is lowered with nose and chin shifted left under bangs; B visible nose and chin shift right under bangs."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes are beneath heavy bangs, nose points low and chin is tucked; B eyes face high, chin lifts and neck is exposed."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A face points toward lower right with chin close to collar; B nose and chin lift, leaving a long exposed neck."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A eye and nose look low beneath bangs, chin tucked; B eye and nose look high, chin raised above exposed neck."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose tips downward and chin sits low; B nose points slightly upward and chin is higher with exposed neck."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A eyes face high and chin lifts above a long neck; B eyes are low beneath bangs and chin is tucked."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose points slightly upward and chin leaves visible neck; B nose points lower left and chin sits close to collar."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A profile nose is slightly elevated and chin clears the neck; B profile nose points lower left and chin approaches the collar."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "reviewer": "parent encoded-atlas native-cell contact and ordered frame inspection",
+  "artifacts": [
+    "qa/contact-sheet-final.png",
+    "qa/directions-labeled.png",
+    "previews/personality-stills.png",
+    "previews/personality-focus.gif",
+    "previews/all-states.gif",
+    "previews/idle-jump-idle.gif",
+    "previews/look-loop.gif"
+  ],
+  "states": {
+    "idle": "Remote side gaze, blink, briefdirect gaze, return to distantpose; subtle variation with fixedfeet",
+    "waiting": "Loweredchin then eyecontact and askingheadtilt; fingerclosure subtle, no props",
+    "running": "Reads navyopenbook with eyetracking and fingerpage motion; no locomotion; both hands always connected",
+    "review": "Examinesbook, slightnod, closes/reopensbook held inhands, briefsmallsmile then settled readingpose",
+    "failed": "Holds amberbrown old spectacles in cuppedhands; readable chinbow/closedeyes/shouldersdrop then softrecovery; no floating eyewear",
+    "waving,gait,jumping": "Approved original source poses retained and nearestsampled"
+  },
+  "identity": "Originaluniform paleicybluehair redeyes slenderproportions preserved, book and spectacles authorized stateprops from approvedgeneratedref",
+  "geometry": "Consistent wholebody scale and footbaseline; jumper rises andlands; noclip/neighbourbleed/detachedeffects; sourceprops stayphysicallyattached",
+  "generation": "Five new rows generated independently with built-in image_gen using fetchedstoredatlas and canonicalrefs; no algorithmicallyinventedart; same authoritativepipeline nearestsampler."
+}

@@ -1,0 +1,6 @@
+{
+  "look_rows_pixel_identical_to_v2": false,
+  "prior_look_pixel_sha256": "2897dbe1c2ab5137d60892d373349d02d4ff496be38d0eb0557a288d2b03a5f6",
+  "current_look_pixel_sha256": "4e2ade917bc2a487c16e3dd5c049b22793eea428bc9e79b0547bfc8afa74ed9f",
+  "scope": "Only directions9-10; new neutral idle and other standard rows separately reviewed."
+}

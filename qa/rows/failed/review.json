@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "qa/rows/failed/frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "qa/rows/failed/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7021,
+          "bbox": [
+            66,
+            7,
+            125,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 1,
+          "file": "qa/rows/failed/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6993,
+          "bbox": [
+            66,
+            8,
+            125,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        },
+        {
+          "index": 2,
+          "file": "qa/rows/failed/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6979,
+          "bbox": [
+            66,
+            9,
+            125,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 3,
+          "file": "qa/rows/failed/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6800,
+          "bbox": [
+            66,
+            16,
+            125,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        },
+        {
+          "index": 4,
+          "file": "qa/rows/failed/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6947,
+          "bbox": [
+            65,
+            12,
+            126,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 5,
+          "file": "qa/rows/failed/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7021,
+          "bbox": [
+            66,
+            9,
+            125,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 68
+        },
+        {
+          "index": 6,
+          "file": "qa/rows/failed/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7024,
+          "bbox": [
+            66,
+            6,
+            125,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 58
+        },
+        {
+          "index": 7,
+          "file": "qa/rows/failed/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7013,
+          "bbox": [
+            66,
+            6,
+            125,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        }
+      ]
+    }
+  ]
+}

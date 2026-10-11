@@ -1,0 +1,118 @@
+{
+  "reviewer": "Parent inspection of newly registered v3 final encoded directions-labeled.png at native cell size and ordered final contact sheet; source look families reused but encoded registration rechecked.",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "observed": "Chin raised, eyes above nose, throat extended; face points above.",
+      "evidence": "Frontal face pitches up without moving torso."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "Chin lifted and cheek/nose shift to screen-right.",
+      "evidence": "Both eyes and nose sit to right of neck center while chin remains raised."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "Rightward head yaw with lifted chin and raised eye.",
+      "evidence": "Nose projects right and jaw slopes upward compared neutral."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "verdict": "warning",
+      "observed": "Strong right profile, subtle upward pitch.",
+      "evidence": "Nose/eye higher and more underside jaw visible than090; vertical component subtle but coherent."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "observed": "Head faces right edge with nose on right silhouette.",
+      "evidence": "Rightward nose profile and exposed cheek, no vertical pitch."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": "Right profile with slightly tucked chin.",
+      "evidence": "Eye and nose lower than090 and crown slightly more visible; small downward cue."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "Head bowed and nose yawed right.",
+      "evidence": "Visible face lies low/right below fringe, chin toward collar."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "Pronounced down pitch with slight right face yaw.",
+      "evidence": "Face under right side of bangs and nose below head center; feet anchored."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "observed": "Frontal head bowed, eyes low under bangs.",
+      "evidence": "More crown visible and chin tucked centrally near bow."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "Bowed head with face shifted left.",
+      "evidence": "Nose and exposed left cheek under left fringe with tucked chin."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "Left head yaw with down pitch.",
+      "evidence": "Nose left and below head center, neck partly hidden by chin."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "verdict": "warning",
+      "observed": "Strong left profile with modest downward pitch.",
+      "evidence": "Leftward nose/eye slightly lower than270, visible crown and chin closer collar."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "verdict": "pass",
+      "observed": "Head faces left edge, nose on left silhouette.",
+      "evidence": "Left nose profile and cheek exposure without vertical pitch."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "verdict": "warning",
+      "observed": "Left profile with slight chin elevation.",
+      "evidence": "Nose/eye higher than270 and underside jaw more exposed; slight upward cue."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "Leftward head yaw and lifted chin.",
+      "evidence": "Nose points upper-left, jaw and neck open, visible eye raised."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "Near-frontal face raised with slight left yaw.",
+      "evidence": "Nose and eyes biased left while chin points up; flows into000."
+    }
+  ],
+  "continuity_review": "112.5->135 and157.5->180 pixel differences reported as local outliers. Native ordered cells show head downpitch/yaw moving naturally, planted body remains connected and registered; no quadrant reversal, conspicuous wholebody snap, scale pop or alpha hole. Reviewed warnings accepted. New idle first frame still matches canonical face/body construction."
+}

@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet Rei.
+
+Pet identity: User approved all personality concepts: quiet distant gaze then brief eye contact and gaze aversion; active work concentrating on an open book; waiting slow eye lift and gently closing fingers, expectant gaze; review checks completed work then tiny nod, relaxed shoulders and faint smile; failure reaction uses treasured old spectacles carefully held in both hands, disappointed lowered head and protective clasp. Preserve refined pixel art slender4.3head schooluniform Rei, no chibi, no effects. State-specific book and spectacles authorized. Preserve existing stable pet ID and active status. Crisp nearest sampling approved. Reuse approved waving gait jump and look source rows..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `pixel`: Pixel-art-adjacent digital mascot with a chunky silhouette, simple dark outline, limited palette, flat cel shading, and visible stepped edges.
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

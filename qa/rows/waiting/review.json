@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "qa/rows/waiting/frames",
+  "states": [
+    "waiting"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "qa/rows/waiting/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6805,
+          "bbox": [
+            67,
+            8,
+            124,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        },
+        {
+          "index": 1,
+          "file": "qa/rows/waiting/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6854,
+          "bbox": [
+            66,
+            7,
+            125,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 2,
+          "file": "qa/rows/waiting/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6802,
+          "bbox": [
+            67,
+            6,
+            124,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 63
+        },
+        {
+          "index": 3,
+          "file": "qa/rows/waiting/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6746,
+          "bbox": [
+            67,
+            7,
+            124,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 63
+        },
+        {
+          "index": 4,
+          "file": "qa/rows/waiting/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6862,
+          "bbox": [
+            67,
+            6,
+            124,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 85
+        },
+        {
+          "index": 5,
+          "file": "qa/rows/waiting/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6801,
+          "bbox": [
+            67,
+            7,
+            124,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        }
+      ]
+    }
+  ]
+}

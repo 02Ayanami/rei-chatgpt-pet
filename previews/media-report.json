@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "source": "final/spritesheet-extended.png",
+  "standard_frames": 57,
+  "look_frames": 16,
+  "video_frames": 240,
+  "artifacts": [
+    "all-states.gif",
+    "all-states.mp4",
+    "idle-jump-idle.gif",
+    "look-loop.gif",
+    "four-stills.png",
+    "personality-focus.gif",
+    "personality-stills.png"
+  ]
+}
